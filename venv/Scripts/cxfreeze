@@ -1,0 +1,6 @@
+#!C:\Users\kozlo\Documents\python nauka\pcs_projekt\venv\Scripts\python.exe
+
+from cx_Freeze import main
+
+main()
+
